@@ -1,6 +1,6 @@
 # Arcade Games
 
-A suite of computer arcade games built using CodeSkulptor. Require simplegui module to run.
+A suite of computer arcade games built using CodeSkulptor. Requires simplegui module to run.
 
 Links to implementation in CodeSkulptor: <br />
 Tic-Tac-Toe: https://py2.codeskulptor.org/#user45_vveOz8tow7_3.py <br />
