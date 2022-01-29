@@ -2,8 +2,8 @@
 
 A suite of computer arcade games built using CodeSkulptor. Require simplegui module to run.
 
-Links to implementation in CodeSkulptor:__
-Tic-Tac-Toe: https://py2.codeskulptor.org/#user45_vveOz8tow7_3.py__
+Links to implementation in CodeSkulptor: <br />
+Tic-Tac-Toe: https://py2.codeskulptor.org/#user45_vveOz8tow7_3.py <br />
 Word Wrangler: https://py2.codeskulptor.org/#user45_RJiGSmvqn1_3.py__
 Memory: https://py2.codeskulptor.org/#user40_6MxffpqDaV_9.py__
 Pong: https://py2.codeskulptor.org/#user40_mWKpcODsnZ_10.py__
